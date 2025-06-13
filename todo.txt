@@ -1,0 +1,7 @@
+# close file uplaod menu if user changes his mind of way of uplaoding file
+# email chtoby otpravit' agenta 
+# instant voice clone or voice choosing 
+
+
+# enterprise clients -> what they use for auto-response -> 
+# user: 
